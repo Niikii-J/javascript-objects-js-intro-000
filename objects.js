@@ -1,5 +1,5 @@
 var playlist = {
-  'Foo Fighters': 'Everlong',
+  'Girl in Red': 'Rue',
   Gorillaz: 'Dare'
 }
 
