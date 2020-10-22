@@ -1,6 +1,6 @@
 var playlist = {
   'Foo Fighters': 'Everlong',
-  Prince: 'Purple Rain'
+  Gorillaz: 'Dare'
 }
 
 function updatePlaylist(playlist, artist, song) {
